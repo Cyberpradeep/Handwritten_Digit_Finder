@@ -2,6 +2,17 @@
 
 This project uses a Convolutional Neural Network (CNN) to classify handwritten digits (0–9) from the MNIST dataset with over 98% accuracy.
 
+# Explained Videos
+
+
+
+https://github.com/user-attachments/assets/700400d0-8eb9-48d4-a6b0-b71d1af2578b
+
+# Click to test the model in HuggingFace🫠
+
+https://huggingface.co/spaces/Prap017/Handwrieen_recogination
+
+
 ##  Technologies
 - TensorFlow / Keras
 - CNN
