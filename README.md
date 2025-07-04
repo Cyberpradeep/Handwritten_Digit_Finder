@@ -35,12 +35,13 @@ Achieved ~98.5% accuracy on test set
 ![Screenshot 2025-06-14 184753](https://github.com/user-attachments/assets/111572b4-88b6-4300-89b3-bdca8228fb45)
 
 
-##  Result
+## Output
 
 ![Screenshot 2025-06-14 184830](https://github.com/user-attachments/assets/d352d892-9b44-4757-8425-b7a160d1360a)
 
 ![Screenshot 2025-06-14 184902](https://github.com/user-attachments/assets/c444f24c-c970-4444-85b6-7c15c5671674)
 
+![image](https://github.com/user-attachments/assets/f7d0de6f-2607-4d84-aa17-204aee399e5e)
 
 
 
